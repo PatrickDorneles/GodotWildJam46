@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.svg-218a8f2b3041327d8a5756f3a245f83b.stex"
+path="res://.import/player.walking_down.png-fa1c25b91bc7ab765c8688b00f8ef118.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.svg"
-dest_files=[ "res://.import/icon.svg-218a8f2b3041327d8a5756f3a245f83b.stex" ]
+source_file="res://src/entities/Player/sprites/player.walking_down.png"
+dest_files=[ "res://.import/player.walking_down.png-fa1c25b91bc7ab765c8688b00f8ef118.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
